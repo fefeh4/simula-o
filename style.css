@@ -1,0 +1,36 @@
+body{
+    background-color: pink;
+    color: brown;
+}
+nav{
+     text-align: center;
+}
+nav a{
+    font-size: 20px;
+    text-decoration: none;
+    color: black
+}
+img{
+   border: 10px solid;
+   border-radius: 15px;
+   border-color: deeppink;
+   text-align: center;
+   width: 800px;
+   height: 600px;
+}
+div{
+    text-align: center;
+    font-size:  50px; ;
+}
+h2{
+    font-size: 70px;
+    text-align: center;
+}
+h1{
+    font-size: 100px;
+    text-align: center;
+}
+p{
+    font-size: 50px;
+    text-align: center;
+}
